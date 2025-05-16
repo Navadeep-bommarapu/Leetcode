@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0169-majority-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1013-fibonacci-number) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
