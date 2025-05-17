@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1635-number-of-good-pairs) |
