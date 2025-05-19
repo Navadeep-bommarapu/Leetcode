@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -68,5 +72,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0792-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
