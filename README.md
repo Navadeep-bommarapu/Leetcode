@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0169-majority-element) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
@@ -124,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0054-spiral-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
