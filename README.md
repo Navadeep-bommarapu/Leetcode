@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Hash Table
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
