@@ -8,6 +8,5 @@ class Solution {
             }
         }
         Arrays.sort(nums1);
-        System.out.print(Arrays.toString(nums1));
     }
 }
