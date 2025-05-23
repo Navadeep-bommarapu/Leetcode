@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
