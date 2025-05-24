@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
