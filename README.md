@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0412-fizz-buzz) |
+| [0898-transpose-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0898-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -138,5 +140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
