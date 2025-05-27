@@ -1,7 +1,7 @@
 import java.util.Arrays;
 class Solution {
     public void reverseString(char[] s) {
-        int left=0, right=s.length-1;
+        int left = 0, right = s.length - 1;
         while(left < right){
             char temp = s[left];
             s[left] = s[right];
@@ -9,6 +9,6 @@ class Solution {
             left++;
             right--;
         }
-        System.out.print(s);
+        
     }
 }
