@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1635-number-of-good-pairs) |
