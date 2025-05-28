@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0742-to-lower-case) |
 ## Two Pointers
 |  |
 | ------- |
