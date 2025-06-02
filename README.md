@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0342-power-of-four) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Navadeep-bommarapu/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
